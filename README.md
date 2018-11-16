@@ -1,4 +1,4 @@
-# Vis2018
+## Data Visualization
 
 An interactive tool to explore the relationship between National Education Expenditure and Youth Literacy Rate.
 
