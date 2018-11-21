@@ -56,15 +56,6 @@ var svg_bars = d3.select("body")
       .attr("transform", "translate(" + margin.left + ", " + margin.top + ")");
 
 
-// function getData(year){
-//   var line = `/api/${year}`;
-//   // vegaEmbed('#vis', line);
-
-//   fetch(line)
-//     .then(response => response.json())
-//     .then(r => {console.log(r);});
-// }
-
 // load data and render
   var year = 1990;
   var url = `/api/${year}`;
